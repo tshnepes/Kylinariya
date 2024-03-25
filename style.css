@@ -1,1 +1,102 @@
+body {
+  width: 100vw;
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header{
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  flex-direction: column;
+}
+
+.arrow-next{
+    font-size: ;
+    margin: 0;
+    cursor: pointer;
+}
+
+
+.list{
+
+  
+}
+.main{
+  
+}
+
+.menu{
+  
+}
+
+.menu-elements{
+  
+}
+.select_btn{
+  width: 228px; height 84px;
+  font-size: 40px;
+  padding: 5px;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center
+}
+
+}
+.recipe-wrapper{
+    width: ;
+    height: ;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: ;
+}
+
+.recipe-item{
+  
+}
+
+.recipe-item select{
+  
+}
+
+
+.submit-wrapper{
+  
+}
+
+.submit-form{
+  
+}
+
+.submit-btn{
+  
+}
+
+.create-recipe-wrapper{
+  
+}
+
+.create-recipe-info{
+  
+}
+
+.add-recipe{
+  
+}
+.add-recipe-info{
+  
+}
+
+
+
+
+
+
+
 

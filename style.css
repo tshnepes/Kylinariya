@@ -6,15 +6,6 @@ body {
   box-sizing: border-box;
 }
 
-header{
-  width: 100%;
-  height: 100vh;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  color: white;
-  flex-direction: column;
-}
 
 .arrow-next{
     font-size: ;
@@ -22,11 +13,15 @@ header{
     cursor: pointer;
 }
 
+h1{
+  
+}
 
-.list{
+h4{
 
   
 }
+
 .main{
   
 }
@@ -65,16 +60,15 @@ header{
   
 }
 
-
-.submit-wrapper{
+.team1{
   
 }
 
-.submit-form{
+.team2{
   
 }
 
-.submit-btn{
+.team3{
   
 }
 
